@@ -6,4 +6,4 @@
 		<li><a href="index.php?l=social">social</a></li>
 		<li><a href="index.php?l=contact">contact</a></li>
 	</ul>
-</div>
+</div>
