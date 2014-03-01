@@ -3,7 +3,7 @@
 	<head>
 		<title>Cold-Ocean</title>
 		<link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
-		<link href='http://fonts.googleapis.com/css?family=Merriweather+Sans:400,700,800,300' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Cutive+Mono' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
 		<div class="main">
