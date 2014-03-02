@@ -43,7 +43,7 @@ h1 {
     text-align: center;
 }
 .menu a:hover {
-    font-weight: normal;
+    color: #fefefe;
 }
 .menu  li {
     display: inline;
@@ -60,12 +60,19 @@ h1 {
     padding-top:80px;
 }
 .main_header {
-   
-    text-align: center;
-    
+
 }
-.poopy {
+.text-center {
+    position: absolute;
+    height: 200px;
+    width: 500px;
+    top: 300px;
+    left: 32%;
+    right: 30%;
     font-weight: bold;
+    color: #572E13;
+    font-size: 19px;
+    text-shadow: 0.5px -0.5px .5px #ffffff;
 }
 .coffeestain {
     position:absolute;
