@@ -9,6 +9,7 @@
 		<link rel="icon" href="assets/img/favicon.ico" type="image/x-icon" />
 	</head>
 	<body>
+		<span class="coffeestain"><img src="assets/img/coffeestain.png"></span>
 	    <?php include 'include/menu.php'; ?>
 		<div class="main">
 			<?php
@@ -20,7 +21,7 @@
 					include 'include/main.php';
 			?>
 		</div>
-		<span class="coffeestain"><img src="assets/img/coffeestain.png"></span>
+
 		<p class="footer"><?php print "&copy; 2012-" . date('Y') . " Cold-Ocean Photography";?></p>
 	</body>
 </html>
