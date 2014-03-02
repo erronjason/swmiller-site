@@ -60,9 +60,9 @@ h1 {
     padding-top:80px;
 }
 .main_header {
-    padding-top: 40px;
-    width: 55%;
-    float: right;
+   
+    text-align: center;
+    
 }
 .poopy {
     font-weight: bold;
