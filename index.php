@@ -11,14 +11,6 @@
 	<body>
 		<span class="banner"><img src="assets/img/banner.png" height="256" width="650"></span>
 		<span class="coffeestain"><img src="assets/img/coffeestain2.png" height="280" width="280"></span>
-	    <br>
-	    <br>
-	    <br>
-	    <br>
-	    <br>
-	    <br>
-	    <br>
-	    <br>
 	    <?php include 'include/menu.php'; ?>
 		<div class="main">
 			<?php
