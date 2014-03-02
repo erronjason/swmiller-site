@@ -6,8 +6,8 @@
 		<link href='http://fonts.googleapis.com/css?family=Cutive+Mono' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
+	    <?php include 'include/menu.php'; ?>
 		<div class="main">
-			<?php include 'include/menu.php'; ?>
 			<?php
 			    error_reporting(E_ALL ^ E_NOTICE);
 			    $l = '';

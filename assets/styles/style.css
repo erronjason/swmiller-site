@@ -36,22 +36,22 @@ h1 {
     text-shadow: -1.5px -1.5px 1px #756964;
 }
 .menu {
-    text-shadow: -1.5px -1.5px 1px #756964;
-    font-weight: 550;
-    padding-left: 40px;
-    font-size: 28px;
-    float: left;
-    width: 15%;
+    text-shadow: 0.5px -0.5px 1px #756964;
+    font-weight: bold;
+    padding-top: 44px;
+    font-size: 27px;
     text-align: center;
 }
+.menu  li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
 .footer {
-    padding-left: 40%;
+    padding-left: 35%;
     position: absolute;
     bottom: 0;
 	text-align: center;
-}
-.menu ul {
-    list-style-type: none;
 }
 .main {
     padding-top:80px;
