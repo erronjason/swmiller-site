@@ -16,5 +16,6 @@
 					include 'include/main.php';
 			?>
 		</div>
+		<p class="footer"><?php print "&copy; 2012-" . date('Y') . "Cold-Ocean Photography";?></p>
 	</body>
 </html>
