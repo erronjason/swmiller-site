@@ -9,7 +9,7 @@
 		<link rel="icon" href="assets/img/favicon.ico" type="image/x-icon" />
 	</head>
 	<body>
-		<span class="coffeestain"><img src="assets/img/coffeestain.png"></span>
+		<span class="coffeestain"><img src="assets/img/coffeestain2.png" height="280" width="280"></span>
 	    <?php include 'include/menu.php'; ?>
 		<div class="main">
 			<?php
