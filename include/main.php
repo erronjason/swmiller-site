@@ -1,5 +1,3 @@
 <div class="main_header">
-<b>
-	<span class="gray">poopy</span>
-</b>
+	<span class="poopy">poopy</span>
 </div>

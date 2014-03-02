@@ -4,7 +4,6 @@
 		<title>Cold-Ocean</title>
 		<link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
 		<link href='http://fonts.googleapis.com/css?family=Cutive+Mono' rel='stylesheet' type='text/css'>
-	<meta http-equiv="refresh" content="5">
 	</head>
 	<body>
 		<div class="main">
