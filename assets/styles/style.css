@@ -4,10 +4,10 @@ body {
     background: #fefefe;
     font-family: 'Cutive Mono', serif;
     -webkit-font-smoothing: antialiased;
-	background: #fff;
-	background: radial-gradient(ellipse at center, #C0C0C0 0%, #D1D1D1 100%);
-	background: -moz-radial-gradient(#D1D1D1, #C0C0C0);
-	background-attachment:fixed;
+    background: #fff;
+    background: radial-gradient(ellipse at center, #C0C0C0 0%, #D1D1D1 100%);
+    background: -moz-radial-gradient(#D1D1D1, #C0C0C0);
+    background-attachment:fixed;
 }
 a {
     color: #543f36;
@@ -51,7 +51,7 @@ h1 {
     padding-left: 35%;
     position: absolute;
     bottom: 0;
-	text-align: center;
+    text-align: center;
 }
 .main {
     padding-top:80px;
