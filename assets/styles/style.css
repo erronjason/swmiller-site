@@ -42,6 +42,9 @@ h1 {
     font-size: 28px;
     text-align: center;
 }
+.menu a:hover {
+    font-weight: normal;
+}
 .menu  li {
     display: inline;
     list-style-type: none;
