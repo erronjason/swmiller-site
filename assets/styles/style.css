@@ -8,8 +8,8 @@ body {
     font-family: 'Cutive Mono', serif;
     -webkit-font-smoothing: antialiased;
 	background: #fff;
-	background: radial-gradient(ellipse at center, #fff 0%, #eee 100%);
-	background: -moz-radial-gradient(#eee, #fff);
+	background: radial-gradient(ellipse at center, #C0C0C0 0%, #949494 100%);
+	background: -moz-radial-gradient(#949494, #C0C0C0);
 	background-attachment:fixed;
 }
 a {
@@ -63,4 +63,9 @@ h1 {
 }
 .poopy {
     font-weight: bold;
+}
+.coffeestain {
+    position:absolute;
+    bottom:0;
+    right:0;
 }
