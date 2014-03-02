@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>Cold-Ocean Photography</title>
-		<meta name="description" content="South-East Tenessee general photography and portraiture." />
+		<meta name="description" content="South-West Tenessee general photography and portraiture." />
 		<meta name="keywords" content="photography, Memphis, tipton county, Shelby County, potraits, senior pictures">
 		<link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
 		<link href='http://fonts.googleapis.com/css?family=Cutive+Mono' rel='stylesheet' type='text/css'>
