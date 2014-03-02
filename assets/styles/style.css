@@ -5,8 +5,7 @@ body {
     overflow: hidden;
     margin: 0;
     background: #fefefe;
-    font-family: 'Roboto', sans-serif;
-    text-shadow: -1.5px -1.5px 1px #756964;
+    font-family: 'Cutive Mono', serif;
     -webkit-font-smoothing: antialiased;
 	background: #fff;
 	background: radial-gradient(ellipse at center, #fff 0%, #eee 100%);
@@ -37,6 +36,7 @@ h1 {
     text-shadow: -1.5px -1.5px 1px #756964;
 }
 .menu {
+    text-shadow: -1.5px -1.5px 1px #756964;
     font-weight: 550;
     padding-left: 40px;
     font-size: 28px;
