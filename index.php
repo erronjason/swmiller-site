@@ -9,13 +9,15 @@
 		<div class="main">
 			<?php include 'include/menu.php'; ?>
 			<?php
+			    error_reporting(E_ALL ^ E_NOTICE);
+			    $l = '';
 				$l = $_GET["l"];
-				if ($l != '')
+				if ($l != '' or '')
 					include 'include/'.$l.'.php';
 				else
 					include 'include/main.php';
 			?>
 		</div>
-		<p class="footer"><?php print "&copy; 2012-" . date('Y') . "Cold-Ocean Photography";?></p>
+		<p class="footer"><?php print "&copy; 2012-" . date('Y') . " Cold-Ocean Photography";?></p>
 	</body>
 </html>
