@@ -36,10 +36,10 @@ h1 {
     text-shadow: -1.5px -1.5px 1px #756964;
 }
 .menu {
-    text-shadow: 0.5px -0.5px 1px #756964;
+    text-shadow: 2.5px -0.5px 2px #FFFFFF;
     font-weight: bold;
     padding-top: 80px;
-    font-size: 27px;
+    font-size: 32px;
     text-align: center;
 }
 .menu  li {
